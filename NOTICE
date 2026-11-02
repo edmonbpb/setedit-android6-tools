@@ -1,0 +1,26 @@
+NOTICE
+
+This repository contains only scripts and documentation. It does not include
+the application binaries that the scripts operate on.
+
+Third-party tools referenced by the documentation:
+
+  APKEditor
+    Copyright REAndroid contributors
+    Licensed under the Apache License, Version 2.0
+    https://github.com/REAndroid/APKEditor
+
+  Settings Database Provider
+    Copyright the Settings-Database-Provider contributors
+    Licensed under the Apache License, Version 2.0
+    https://github.com/gamemn02/Settings-Database-Provider
+    Distributed by F-Droid / IzzyOnDroid. Not bundled in this repository.
+
+  Android SDK Build Tools (zipalign, apksigner, aapt2)
+    Copyright The Android Open Source Project
+    Licensed under the Apache License, Version 2.0
+
+The settings-editor application manipulated by these scripts is third-party
+software. Its name, assets and trademarks belong to their owners. This project
+is not affiliated with or endorsed by the application's author, and does not
+distribute that application.

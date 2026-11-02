@@ -1,0 +1,22 @@
+# build output
+build/
+*.apk
+*.apks
+*.jar
+*.idsig
+
+# signing material — never commit
+*.keystore
+*.jks
+*.p12
+
+# local tooling
+/tools/
+__pycache__/
+*.pyc
+
+# editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

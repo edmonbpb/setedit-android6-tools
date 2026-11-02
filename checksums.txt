@@ -1,0 +1,16 @@
+# SHA-256 of artifacts produced with these scripts
+# (Android 6.0 / API 23 emulator, 2026-11-02 and 2026-11-03)
+#
+# The binaries are NOT distributed in this repository. Hashes are listed so a
+# build made from the same input bundle can be compared.
+
+8e2fb78e380e87b2a3f1f66d4b93a1661ec6c80a86561646a0ed77aa170918bb  SetEdit-1.3.4-Android6.apk
+    cable-free build: merged splits, targetSdk 22, launcher moved to MainActivity
+
+f5585157b5c0f6a47f8d952239ab10225255baaaa833f1b05da62c2193cb4f09  SetEdit-1.3.4-Android6.apk
+    PC build: merged splits, targetSdk 22, onboarding kept
+
+ded47acf62b75ab5425fb2e350ade7765a8df7212e32c3e7bfc5e142c9837638  SettingsDatabaseProvider.apk
+    upstream: com.netvor.settings.database.provider 1.1 (versionCode 2)
+    source: https://apt.izzysoft.de/fdroid/repo/com.netvor.settings.database.provider_2.apk
+    license: Apache-2.0
